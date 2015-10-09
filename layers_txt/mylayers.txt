@@ -20,7 +20,7 @@
       "url": "http://kurohune538.github.io/gsimaps/example231/{z}/{x}/{y}.geojson",
       "html": "",
       "maxZoom": 18,
-      "maxNativeZoom" 2
+      "maxNativeZoom": 2
     }
   ]
 }
