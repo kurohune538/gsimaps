@@ -17,7 +17,7 @@
       "type": "Layer",
       "id": "std",
       "title": "vector線",
-      "url": "https://github.com/kurohune538/gsimaps/example231/2/3/1.geojson",
+      "url": "http://kurohune538.github.io/gsimaps/example231/{z}/{x}/{y}.geojson",
       "html": "",
       "maxZoom": 18,
       "maxNativeZoom" 2
